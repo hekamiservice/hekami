@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sua Empresa | Serviços Técnicos</title>
+  <meta name="description" content="Serviços técnicos especializados em comissionamento, testes elétricos e energia." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- SEO -->
+  <link rel="canonical" href="https://seudominio.com.br/" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Sua Empresa | Serviços Técnicos" />
+  <meta property="og:description" content="Comissionamento e testes elétricos com confiabilidade." />
+  <meta property="og:type" content="website" />
+</head>
+<body>
+  <h1>Sua Empresa</h1>
+  <p>Comissionamento e serviços técnicos especializados.</p>
+</body>
+</html>
